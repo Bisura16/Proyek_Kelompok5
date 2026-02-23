@@ -1,1 +1,13 @@
-# Proyek_Kelompok5
+# Proyek Kelompok 5
+
+## TECH FIVE SOFTWARE INNOVATION 
+JURUSAN TEKNIK KOMPUTER DAN INFORMATIKA 
+1B - D4 TEKNIK INFORMATIKA 
+KELOMPOK 5
+
+ANGGOTA : 
+Abhidal Muhammad Gazza (251524032)
+Alia Ardani (251524035)
+Bimo Surya Anggara (251524040)
+Ghaisan Khoirul Badruzaman (251524048)
+Muhammad Iqbal (251524057)
